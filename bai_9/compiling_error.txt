@@ -1,6 +1,0 @@
-D:\Kirisaki124\c\bai_9\tax.cpp:4:34: error: variable or field 'persion_contributions' declared void
- void persion_contributions(income) {
-                                  ^
-D:\Kirisaki124\c\bai_9\tax.cpp:4:28: error: 'income' was not declared in this scope
- void persion_contributions(income) {
-                            ^
